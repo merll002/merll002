@@ -23,6 +23,4 @@ Things I self-host:
 * Mumble VoIP server
 * More to come...
 
-Interesting: [I installed Linux From Scratch](https://www.linkedin.com/posts/leo-merlino_cat-linkedinpost1txt-eof-first-activity-7408900495513276417-dPcv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF6UbMkBj0HZYERkItRnvHgGzWD8Q3X-vHg)
-
 `EOF`
