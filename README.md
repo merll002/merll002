@@ -1,5 +1,7 @@
 `cat > README.md <<'EOF'`
 
+Your average **fish** scripter 🐟
+
 Check this cool thing out: [merll002/clipboard-file-transfer](https://github.com/merll002/clipboard-file-transfer)
 
 No **AI slop** found here btw
