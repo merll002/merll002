@@ -20,6 +20,7 @@ Things I self-host:
 * Immich photo library
 * Custom Alpine QEMU VM running Deluge WebUI and VPN
 * Custom isolated Docker container running SSH server for SFTP access to a questionable site... 😉
+* Navidrome media server 
 * Owntone music server + AirConnect & Shairport Sync
 * Syncthing
 * Mumble VoIP server
