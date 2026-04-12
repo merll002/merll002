@@ -15,7 +15,7 @@ Things I self-host:
 * Nextcloud
 * copyparty
 * Vaultwarden
-* Grafana dashboard (caddy and cadvisor metrics with prometheus)
+* Grafana dashboard (caddy, docker (via cadvisor), navidrome and nextcloud metrics with prometheus)
 * MySpeed network speed analysis
 * Immich photo library
 * Custom Alpine QEMU VM running Deluge WebUI and VPN
