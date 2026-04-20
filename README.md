@@ -21,7 +21,7 @@ Things I self-host:
 * Custom Alpine QEMU VM running Deluge WebUI and VPN
 * Custom isolated Docker container running SSH server for SFTP access
 * Navidrome media server 
-* Owntone music server + AirConnect & Shairport Sync
+* Owntone server + AirConnect & Shairport Sync
 * Syncthing
 * Mumble VoIP server
 * More to come...
