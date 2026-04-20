@@ -19,7 +19,7 @@ Things I self-host:
 * MySpeed network speed analysis
 * Immich photo library
 * Custom Alpine QEMU VM running Deluge WebUI and VPN
-* Custom isolated Docker container running SSH server for SFTP access to a questionable site... 😉
+* Custom isolated Docker container running SSH server for SFTP access
 * Navidrome media server 
 * Owntone music server + AirConnect & Shairport Sync
 * Syncthing
